@@ -1,0 +1,1 @@
+export const TEST_SUCCES = "TEST_SUCCES";
